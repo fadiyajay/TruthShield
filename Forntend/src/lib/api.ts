@@ -2,7 +2,7 @@ import axios from 'axios';
 import { useAuthStore } from '../store/useAuthStore';
 
 const api = axios.create({
-  baseURL: 'https://truthshield-6x52.onrender.com' || 'http://localhost:8000',
+  baseURL: 'https://truthshield-6x52.onrender.com',
   headers: {
     'Content-Type': 'application/json',
   },
