@@ -177,7 +177,7 @@ TruthShield is an AI-assisted tool built for research and learning. Results are 
 
 ## 👩‍💻 Author
 
-**Diya Patel**, Cybersecurity Student
-[GitHub](https://github.com/DiyaPatel0721) · [LinkedIn](https://www.linkedin.com/in/diya-patel-ab29a730b)
+**Jay Fadiya**, Cybersecurity Student
+[GitHub](https://github.com/fadiyajay) · [LinkedIn](www.linkedin.com/in/jay-fadiya-04826b321)
 
 <p align="center"><i>Learn. Verify. Protect.</i></p>
