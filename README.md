@@ -137,7 +137,7 @@ User Input → Content Routing → AI Processing → Verification Engine → Ris
 
 ```bash
 # Clone the repository
-git clone https://github.com/DiyaPatel0721/TruthShield.git
+git clone https://github.com/fadiyajay/TruthShield.git
 cd TruthShield
 
 # Backend
